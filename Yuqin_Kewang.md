@@ -1,0 +1,3 @@
+Hey! My name is Yuqin Kewang. I am currently a fourth-year PhD student at UChicago. I am interested in chromatic homotopy theory, and its interactions with algebraic geometry and arithmetic geometry.
+
+In particular, I've been thinking about the computations of power operations for Morava $E$-theory and their connections with modular forms. I want to use AI to help compute the Dyer-Lashof algebra of Morava $E$-theory at height 2 with a better presentation (using a special power operation called $\theta$) and hopefully find a pattern to extend the computations to higher heights (they are open at the time!).
